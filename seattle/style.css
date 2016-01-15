@@ -1,0 +1,186 @@
+
+body,
+	html {
+		margin:0;
+		padding:0;
+		color:#000;
+		background:#000000;
+	}
+	#wrap {
+		width:1250px;
+		margin:0 auto;
+		background:#ffffff;
+	}
+	#header {
+    	
+		
+		background:#000000;
+		
+	}
+	h1 {
+	    margin:0;
+    }
+	#nav {
+		padding:15px;
+		
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#28d341+0,208242+45,398235+100 */
+background: #28d341; /* Old browsers */
+background: -moz-linear-gradient(top,  #28d341 0%, #208242 45%, #398235 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #28d341 0%,#208242 45%,#398235 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #28d341 0%,#208242 45%,#398235 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#28d341', endColorstr='#398235',GradientType=0 ); /* IE6-9 */
+
+
+
+		margin-bottom: 25px;
+		text-align: center;
+	}
+	#nav ul {
+		margin:0;
+		padding:0px;
+		list-style:none;
+	}
+	#nav li {
+		display:inline;
+		margin:0;
+		padding:60px;
+		
+	}
+	
+
+	h1 {
+		margin:0 0 1em;
+		font-family: Agency Fb;
+	}
+	#left, #middle, #right {
+		
+		display: table-cell;
+		vertical-align: top;
+		margin: 0 auto;
+		padding-right: 25px;
+		padding-left: 25px;
+		width: 10%;
+		padding-bottom:25px;
+		
+	}
+	#footer {
+		padding:10px;
+		/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#28d341+0,208242+45,398235+100 */
+background: #28d341; /* Old browsers */
+background: -moz-linear-gradient(top,  #28d341 0%, #208242 45%, #398235 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #28d341 0%,#208242 45%,#398235 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #28d341 0%,#208242 45%,#398235 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#28d341', endColorstr='#398235',GradientType=0 ); /* IE6-9 */
+
+	}
+	#footer p {
+		margin:0;
+    }
+	* html #footer {
+	height:15px;}
+	
+	IMG.displayed { display: block;
+    margin-left: 0;
+    margin-right: 3px;
+	margin-top: 6px;
+		
+	}
+	#row {
+	display: table-row;
+	margin: 0 auto;}
+	#container {
+		display: table;
+		width: 80%;
+		margin-top: 11px;
+		padding-left: 1px;
+		margin: 0 auto;}
+		
+		
+		
+		/* unvisited link */
+a:link {
+    color: black;
+}
+
+/* visited link */
+a:visited {
+    color: white;
+}
+
+/* mouse over link */
+a:hover {
+    color: red;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
+
+
+.move li a:visited{color: purple;}
+
+
+#history-text{ padding-left: 55px;
+padding-right: 75px;
+padding-bottom: 75px;
+padding-top: 15px;}
+
+img.displayed{display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding-bottom: 25px;
+}
+
+#railroad {margin:0 0 1em;
+		font-family: Agency Fb;}
+#fire {margin:0 0 1em;
+		font-family: Agency Fb;}
+		
+		
+		
+#gold-rush{margin:0 0 1em;
+		font-family: Agency Fb;}
+		
+		#leader{margin:0 0 1em;
+		font-family: Agency Fb;}
+		#war {margin:0 0 1em;
+		font-family: Agency Fb;}
+		#boeing {margin:0 0 1em;
+		font-family: Agency Fb;}
+img { 
+   border:3px solid #000000;
+}
+	.links li a:visited{color: purple;
+	list-style: none;}
+	
+	
+	div.famous{float:left;
+	margin:5px;
+	}
+			div.float-box {
+				float: left;
+				margin: 10px;
+			}
+			
+			.boeing a:visited{color: purple;}
+			
+			
+			
+			
+	div.desc {
+    padding: 5px;
+    text-align: center;
+}	
+
+#float-left{float: left;
+			  width: 65%;
+			  padding: 15px;}
+#float-right{float: right;
+width: 25%;
+}
+
+a.button-top:visited{color: black;} 
+a.button-top:link{color: black;
+text-decoration: none;}
+a.button-top:hover{color: black;}
