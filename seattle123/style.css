@@ -39,6 +39,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#28d341', end
 		margin:0;
 		padding:0px;
 		list-style:none;
+
 	}
 	#nav li {
 		display:inline;
@@ -103,17 +104,17 @@ a:link {
 }
 
 /* visited link */
-a:visited {
+ a:visited {
     color: white;
 }
 
 /* mouse over link */
-a:hover {
+ a:hover {
     color: red;
 }
 
 /* selected link */
-a:active {
+ a:active {
     color: blue;
 }
 
@@ -148,11 +149,9 @@ img.displayed{display: block;
 		font-family: Agency Fb;}
 		#boeing {margin:0 0 1em;
 		font-family: Agency Fb;}
-img { 
-   border:3px solid #000000;
-}
+
 	.links li a:visited{color: purple;
-	list-style: none;}
+	}
 	
 	
 	div.famous{float:left;
@@ -184,3 +183,46 @@ a.button-top:visited{color: black;}
 a.button-top:link{color: black;
 text-decoration: none;}
 a.button-top:hover{color: black;}
+.button-top {
+  font: bold 11px Arial;
+  text-decoration: none;
+  background-color: #EEEEEE;
+  color: #333333;
+  padding: 3px 7px 3px 7px;
+  border-top: 1px solid #CCCCCC;
+  border-right: 1px solid #333333;
+  border-bottom: 1px solid #333333;
+  border-left: 1px solid #CCCCCC;
+}
+#btop{text-align: center;}
+#months  td {vertical-align: top;
+}
+#months li a:visited{color: purple;}
+#months{display: table-cell;}
+
+
+
+#july ul li{vertical-align: top;
+display: table-cell;
+float: left;}
+#july2 ul li{vertical-align: top;
+display: block;
+float: right;}
+
+
+.main-content{padding:0;
+background:white;
+margin-left: 15px;}
+.secondary-content{padding-left: 45px;
+padding-right: 15px;
+padding-bottom: 15px;
+background: white;
+}
+.move-me{
+border: 3px solid black;
+margin-bottom: 15px;
+margin-left: 15px;}
+.about{padding-left: 45px;
+padding-right: 15px;
+padding-bottom: 15px;
+background: white;}
